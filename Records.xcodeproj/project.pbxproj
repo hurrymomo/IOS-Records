@@ -14,6 +14,8 @@
 		D552B8AE24257DC900B73964 /* Records.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D552B8AC24257DC900B73964 /* Records.xcdatamodeld */; };
 		D552B8B024257DCE00B73964 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D552B8AF24257DCE00B73964 /* Assets.xcassets */; };
 		D552B8B324257DCE00B73964 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D552B8B124257DCE00B73964 /* LaunchScreen.storyboard */; };
+		D552B8BB24258C6A00B73964 /* RecordTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D552B8BA24258C6A00B73964 /* RecordTableViewCell.swift */; };
+		D552B8BD242591F100B73964 /* RecordTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D552B8BC242591F100B73964 /* RecordTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		D552B8AF24257DCE00B73964 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D552B8B224257DCE00B73964 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D552B8B424257DCE00B73964 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D552B8BA24258C6A00B73964 /* RecordTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordTableViewCell.swift; sourceTree = "<group>"; };
+		D552B8BC242591F100B73964 /* RecordTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				D552B8A524257DC900B73964 /* SceneDelegate.swift */,
 				D552B8A724257DC900B73964 /* ViewController.swift */,
 				D552B8A924257DC900B73964 /* Main.storyboard */,
+				D552B8BC242591F100B73964 /* RecordTableViewController.swift */,
+				D552B8BA24258C6A00B73964 /* RecordTableViewCell.swift */,
 				D552B8AF24257DCE00B73964 /* Assets.xcassets */,
 				D552B8B124257DCE00B73964 /* LaunchScreen.storyboard */,
 				D552B8B424257DCE00B73964 /* Info.plist */,
@@ -144,6 +150,8 @@
 				D552B8A824257DC900B73964 /* ViewController.swift in Sources */,
 				D552B8A424257DC900B73964 /* AppDelegate.swift in Sources */,
 				D552B8AE24257DC900B73964 /* Records.xcdatamodeld in Sources */,
+				D552B8BB24258C6A00B73964 /* RecordTableViewCell.swift in Sources */,
+				D552B8BD242591F100B73964 /* RecordTableViewController.swift in Sources */,
 				D552B8A624257DC900B73964 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
